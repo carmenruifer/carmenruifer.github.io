@@ -1,0 +1,122 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Guia de mantenimiento</title>
+<!-- TemplateEndEditable --><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style type="text/css">
+<!--
+.Estilo1 {
+	color: #F60202;
+	font-size: 16mm;
+}
+.Estilo3 {font-size: 16mm}
+.Estilo4 {color: #333333}
+body {
+	background-color: #636563;
+}
+.Estilo27 {	color: #FF9A00;
+	font-size: 16px;
+}
+.Estilo28 {font-weight: bold}
+.Estilo29 {font-size: 16px}
+a:link {
+	text-decoration: none;
+	color: #FF9A00;
+}
+a:visited {
+	text-decoration: none;
+	color: #FF9A00;
+}
+a:hover {
+	text-decoration: underline;
+	color: #FF9A00;
+}
+a:active {
+	text-decoration: none;
+	color: #FF9A00;
+}
+.Estilo30 {font-size: 18px}
+-->
+</style>
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-21782814-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+
+<body>
+<table width="100%"  border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="74%" bgcolor="#636563"><blockquote>      
+      <h1 align="center" class="Estilo25"><span class="Estilo7 Estilo1"> M</span><span class="Estilo15 Estilo3 Estilo4">OTO</span> <span class="Estilo7 Estilo1 Estilo3"> T</span><span class="Estilo15 Estilo3 Estilo4">UTORIAL </span></h1>
+        <hr>
+    </blockquote>      </td>
+    <td width="26%" bgcolor="#636563"><img src="file:///C|/Documents%20and%20Settings/Administrador/Mis%20documentos/sitios/mototutorial/imagenes/1logomototutorial.jpg" width="189" height="208"></td>
+  </tr>
+</table>
+<table width="80%" height="254"  border="0" align="center" cellpadding="0" cellspacing="15">
+  <tr>
+    <td width="19%"><ul class="Estilo21 Estilo28">
+      <li class="Estilo27">
+        <h2 class="Estilo30"><a href="file:///C|/Documents%20and%20Settings/Administrador/Mis%20documentos/sitios/mototutorial/index.htm">Tutoriales</a></h2>
+      </li>
+      <li class="Estilo27">
+        <h2><span class="Estilo30"><strong><strong><a href="file:///C|/Documents%20and%20Settings/Administrador/Mis%20documentos/sitios/mototutorial/mantenimiento.htm">Gu&iacute;a de mantenimiento</a></strong></strong>
+        </span></h2>
+      </li>
+    </ul>
+      <ul class="Estilo27"><li>
+        <h2><span class="Estilo30"><strong><strong><a href="file:///C|/Documents%20and%20Settings/Administrador/Mis%20documentos/sitios/mototutorial/aceite.htm">Que aceite usar</a></strong></strong></span></h2>
+        </li>
+      </ul>
+      <ul class="Estilo27"><li><h2><a href="file:///C|/Documents%20and%20Settings/Administrador/Mis%20documentos/sitios/mototutorial/escape.htm"><span class="Estilo30"><strong><strong>Cambiar el escape </strong></strong></span></a></h2>
+        </li>
+      </ul>
+      <ul class="Estilo27">
+        <li>
+          <h2><span class="Estilo30"><strong><strong><a href="file:///C|/Documents%20and%20Settings/Administrador/Mis%20documentos/sitios/mototutorial/itv.htm">Consejos ITV</a></strong></strong></span></h2>
+        </li>
+      </ul>
+      <ul class="Estilo27">
+        <li>
+          <h2><span class="Estilo30"><strong><strong><a href="file:///C|/Documents%20and%20Settings/Administrador/Mis%20documentos/sitios/mototutorial/electricas.htm">Moto el&eacute;ctrica</a></strong></strong></span></h2>
+        </li>
+    </ul>      <h4 class="Estilo29">&nbsp;</h4>    </td>
+    <td width="81%"><!-- TemplateBeginEditable name="EditRegion1" -->EditRegion1<!-- TemplateEndEditable --></td>
+  </tr>
+</table>
+<table width="80%" height="154"  border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><!-- TemplateBeginEditable name="EditRegion2" -->
+      <p>Proceso </p>
+      <p>Antes de nada, si hay alg&uacute;n trozo de motor con &oacute;xido o cualquier tipo de restos resecos, hay que quitarlos. Puedes usar un cepillo de alambres. </p>
+      <p>Despues lava bien el motor, puedes usar alg&uacute;n tipo de limpiador o jab&oacute;n porque el motor debe quedar limpio de grasa y ace&iacute;tes. Esto es lo que yo hice: </p>
+      <p>-Con cinta de carrocero cubro las partes que quer&iacute;a proteger de la pintura. </p>
+      <p>-Quito los capuchones de las buj&iacute;as. </p>
+      <p>-Empiezo a pintar el motor. Recomiendo hacerlo de dentro a fuera. </p>
+      <p>-Cuando creo que todo esta cubierto con pintura, miro desde todos los &aacute;ngulos posibles y encuentro alguna zona sin cubrir, asi que termino pintando todas esas zonas. </p>
+      <p>-Bueno, pues ya est&aacute; todo pintado. Lo dejo unas horas secando y vuelvo entonces a examinar cada hueco y recoveco en busca de alguna zona sin pintar para rematar la faena. </p>
+      <p>-Retiro la cinta de carocero y las hojas de periodico de las partes que no quer&iacute;a pintar. Este es el resultado: </p>
+      <p>-Dejo secar la pintura hasta el d&iacute;a siguiente </p>
+      <p>-Arranco la moto y doy una vuelta para calentar el motor. Con el calor se pega m&aacute;s la pintura al bloque motor. </p>
+      <p>La pintura ya se ve seca pero la moto huele a pintura. En pocos dias de uso el olor se va. </p>
+      <p>&nbsp; </p>
+      <p>El resultado es muy bueno ya que la pintura calorica esta muy diluida y no quedan marcas ni trazas de las brochas. Tiene una terminacion tan buena como si la hubieramos pintado con pistola o spray. Es una soluci&oacute;n barata y facil . Tener cuidado de que no quede ning&uacute;n pelo de la brocha pegado en el motor ya que cuando se seca la pintura se nota mucho. </p>
+    <!-- TemplateEndEditable --></td>
+  </tr>
+</table>
+<p align="center">&nbsp;</p>
+</body>
+</html>
